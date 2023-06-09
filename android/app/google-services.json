@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611079327698",
+    "project_id": "auction-5d00e",
+    "storage_bucket": "auction-5d00e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611079327698:android:1713fd220ce701806a820b",
+        "android_client_info": {
+          "package_name": "com.zimbytes.auction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoOMsINFMn6W-K_KQexzRWnrL9C6Jh9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
